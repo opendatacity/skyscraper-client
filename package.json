@@ -1,0 +1,24 @@
+{
+	"private": true,
+	"name": "skyscraper-client",
+	"version": "0.0.1",
+	"description": "scraper administration framework",
+	"author": "Sebastian Vollnhals <sebastian@vollnhals.info>",
+	"maintainers": [{
+		"name": "Sebastian Vollnhals",
+		"email": "sebastian@vollnhals.info",
+		"web": "http://vollnhals.info/"
+	}],
+	"main": "./skyscraper-client.js",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/opendatacity/skyscraper-client.git"
+	},
+	"dependencies": {
+		"request": ">= 2.14.0"
+	},
+	"engines": {
+		"node": ">= 0.8.15"
+	}
+}
+
